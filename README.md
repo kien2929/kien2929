@@ -14,7 +14,6 @@
 ### Hi there 👋 I'm Kaleb
 ---
 
-- 🔭 I’m currently working on REST APIs and CRM developpment
 - 🌱 I’m currently learning system programming in Go, Nodejs
 - 📫 How to reach me: [Facebook](https://fb.com/kien2929) 
 
