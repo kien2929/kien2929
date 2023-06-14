@@ -11,10 +11,8 @@
 </div>
 
 
-### Hi there 👋 I'm Kaleb
+### Hi there 👋 I'm Kien
 ---
-
-- 🌱 I’m currently learning system programming in Go, Nodejs
 - 📫 How to reach me: [Facebook](https://fb.com/kien2929) 
 
 ### 📊 GitHub Stats:
